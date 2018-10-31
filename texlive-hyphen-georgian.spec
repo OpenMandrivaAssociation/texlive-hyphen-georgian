@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-hyphen-georgian
 Version:	20180303
-Release:	2
+Release:	3
 Summary:	Georgian hyphenation patterns
 Group:		Publishing
 URL:		http://tug.org/texlive
