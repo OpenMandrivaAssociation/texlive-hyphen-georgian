@@ -1,6 +1,6 @@
 Name:		texlive-hyphen-georgian
 Version:	58652
-Release:	1
+Release:	2
 Summary:	Georgian hyphenation patterns
 Group:		Publishing
 URL:		http://tug.org/texlive
